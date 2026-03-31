@@ -18,5 +18,4 @@
 	<project path="hardware/oplus" name="android_hardware_oplus" remote="device" />
 
     <!-- Vendor folders -->
-    <!-- <project path="vendor/xiaomi/platina" name="nysascape/vendor_xiaomi_platina" remote="vendor" /> -->
 </manifest>
