@@ -16,6 +16,6 @@
     <project path="kernel/oneplus/sm8450-devicetrees" name="android_kernel_oneplus_sm8450-devicetrees" remote="device" />
 
 	<project path="hardware/oplus" name="android_hardware_oplus" remote="device" />
-
+	<project path="hardware/pixelworks" name="LineageOS/android_hardware_pixelworks_interfaces" remote="github" revision="lineage-23.2" />
     <!-- Vendor folders -->
 </manifest>
