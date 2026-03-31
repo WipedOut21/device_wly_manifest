@@ -15,6 +15,8 @@
     <project path="kernel/oneplus/sm8450-modules" name="android_kernel_oneplus_sm8450-modules" remote="device" />
     <project path="kernel/oneplus/sm8450-devicetrees" name="android_kernel_oneplus_sm8450-devicetrees" remote="device" />
 
+	<project path="hardware/oplus" name="android_hardware_oplus" remote="device" />
+
     <!-- Vendor folders -->
     <!-- <project path="vendor/xiaomi/platina" name="nysascape/vendor_xiaomi_platina" remote="vendor" /> -->
 </manifest>
