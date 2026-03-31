@@ -3,17 +3,17 @@
 <manifest>
 	
     <remote name="device"
-            fetch="https://github.com/"
+            fetch="https://github.com/WipedOut21/"
             revision="lineage-23.2"/>
 
     <!--Device Trees-->
-    <project path="device/oneplus/sm8450-common" name="WipedOut21/android_device_oneplus_sm8450-common" remote="device" />
-    <project path="device/oneplus/wly" name="WipedOut21/android_device_oneplus_wly" remote="device" />
+    <project path="device/oneplus/sm8450-common" name="android_device_oneplus_sm8450-common" remote="device" />
+    <project path="device/oneplus/wly" name="android_device_oneplus_wly" remote="device" />
     
     <!--Kernel-->
-    <project path="kernel/oneplus/sm8450" name="WipedOut21/android_kernel_oneplus_sm8450" remote="device" />
-    <project path="kernel/oneplus/sm8450-modules" name="WipedOut21/android_kernel_oneplus_sm8450-modules" remote="device" />
-    <project path="kernel/oneplus/sm8450-devicetrees" name="WipedOut21/android_kernel_oneplus_sm8450-devicetrees" remote="device" />
+    <project path="kernel/oneplus/sm8450" name="android_kernel_oneplus_sm8450" remote="device" />
+    <project path="kernel/oneplus/sm8450-modules" name="android_kernel_oneplus_sm8450-modules" remote="device" />
+    <project path="kernel/oneplus/sm8450-devicetrees" name="android_kernel_oneplus_sm8450-devicetrees" remote="device" />
 
     <!-- Vendor folders -->
     <!-- <project path="vendor/xiaomi/platina" name="nysascape/vendor_xiaomi_platina" remote="vendor" /> -->
