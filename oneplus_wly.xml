@@ -3,7 +3,7 @@
 <manifest>
 	
     <remote name="device"
-            fetch="https://github.com"
+            fetch="https://github.com/"
             revision="lineage-23.2"/>
 
     <!--Device Trees-->
